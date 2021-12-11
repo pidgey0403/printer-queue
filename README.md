@@ -1,2 +1,2 @@
 # printer-simulator
-Using a linked list, simulate a printer by inserting documents into a printer queue and printing out the highest priority document, given a set cycle duration.
+Synposis: Using a linked list, simulate a how a printer functions, by inserting newly generated documents into the printer queue, and print out the highest priority print job, over a set number of cycles. 
